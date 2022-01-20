@@ -1,50 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T08:10:55.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="hM9Q9rDiHOGX0z2PZyBN" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T06:40:23.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="wFVj5KRfZyV1GXwZtJmN" version="16.4.2" type="github">
   <diagram id="NEBidF2QzSUpYKlqAMl5" name="Page-1">
-    <mxGraphModel dx="1169" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WWH-az5NcCdste4ZEK-N-1" value="문의 인입&lt;br&gt;/ 스케줄 조정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-1" value="문의 인입&lt;br&gt;/ 스케줄 조정" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-4" value="계약서 /&amp;nbsp;견적서&lt;br&gt;작성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-4" value="계약서 /&amp;nbsp;견적서&lt;br&gt;/ 예약명단양식 발송" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="180" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-5" value="예약명단 수신" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-5" value="예약명단 수신" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-6" value="예약 및 0원 발권" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-6" value="예약 및 0원 발권" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-7" value="좌석배정 요청&lt;br&gt;(PUSKK)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-7" value="좌석배정 요청&lt;br&gt;(PUSKK)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="460" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-8" value="EMD 발행&lt;br&gt;(운항일 당일)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-8" value="EMD 발행&lt;br&gt;(운항일 당일)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-9" value="세금계산서↔️EMD&lt;br&gt;매핑 요청&lt;br&gt;(AA 수입관리)" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-9" value="세금계산서↔️EMD&lt;br&gt;매핑 요청&lt;br&gt;(AA 수입관리)" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="880" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-10" value="전자세금계산서 발행" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-10" value="전자세금계산서 발행" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="740" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-11" value="인보이스 발행" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-11" value="인보이스 발행" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="740" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-12" value="발권점소&amp;nbsp;/ 수입관리코드&lt;br&gt;/ 가상계좌번호 생성&lt;br&gt;(RM / AA 수입관리)" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-12" value="발권점소&amp;nbsp;/ 수입관리코드&lt;br&gt;/ 가상계좌번호 생성&lt;br&gt;(RM / AA 수입관리)" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="280" y="400" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-13" value="가상계좌발급확인서&lt;br&gt;수신&lt;br&gt;(AA 자금)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-13" value="가상계좌발급확인서&lt;br&gt;수신&lt;br&gt;(AA 자금)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="460" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-16" value="NSH CHK&lt;br&gt;➡️ 환불처리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-16" value="NSH CHK&lt;br&gt;➡️ 환불처리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-17" value="확정내용 공유&lt;br&gt;(UB / OA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-17" value="확정내용 공유&lt;br&gt;( UB / OA )" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWH-az5NcCdste4ZEK-N-18" value="G/A 발주 및 패키징" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WWH-az5NcCdste4ZEK-N-18" value="G/A 발주 및 패키징" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="180" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-i5E61SpCL9kb0pB4a--1" value="시설물 예약" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-i5E61SpCL9kb0pB4a--2" value="확정내용 공유&lt;br&gt;( UA )" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-i5E61SpCL9kb0pB4a--3" value="사전답사 일정 수립" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-i5E61SpCL9kb0pB4a--4" value="사전 답사일정 공유&lt;br&gt;( GA )" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
