@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T13:36:37.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Whale/3.26.244.14 Safari/537.36" etag="ubLcr5pg9DtmMyOgm-yH" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T12:16:37.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Whale/3.26.244.14 Safari/537.36" etag="3S9HsCAE-bH4sr7S-25h" version="24.4.6" type="github">
   <diagram name="페이지-1" id="KoFtYKBcT5BUMtc4sA9n">
     <mxGraphModel dx="957" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,10 +214,10 @@
         <mxCell id="HEht2BDlfyjWbW5B1zJA-5" value="사무총장" style="whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HEht2BDlfyjWbW5B1zJA-6" value="재무처" style="whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="HEht2BDlfyjWbW5B1zJA-6" value="재무국" style="whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="200" y="200" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HEht2BDlfyjWbW5B1zJA-7" value="처장" style="whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="HEht2BDlfyjWbW5B1zJA-7" value="국장" style="whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="200" y="220" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HEht2BDlfyjWbW5B1zJA-8" value="차장" style="whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
@@ -232,7 +232,7 @@
         <mxCell id="HEht2BDlfyjWbW5B1zJA-11" value="차장" style="whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="580" y="220" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="z4To6LhVGCX8RfunasDD-1" value="자문회원" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="z4To6LhVGCX8RfunasDD-1" value="자문회원" style="whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="200" y="100" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
