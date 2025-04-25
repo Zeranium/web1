@@ -1,78 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Whale/4.29.282.15 Safari/537.36" version="26.0.12">
-  <diagram name="페이지-1" id="r8-Ugv7WtsIVS2ZAJBiH">
-    <mxGraphModel dx="1154" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Whale/4.31.304.16 Safari/537.36" version="26.0.12">
+  <diagram name="페이지-1" id="6NJ8Qg96GK-yfSu-ZyEO">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-1" value="크기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="70" y="360" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-2" value="소형 드론 (~25kg)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-3" value="중형 드론&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(25~150kg)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="360" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-4" value="대형 드론&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(150kg~)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="360" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-5" value="통제방식" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-8" value="1:1 개별 통제 드론" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="410" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-9" value="군집(스웜) 통제 드론" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="410" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-10" value="비행방식" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="70" y="460" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-11" value="멀티콥터(복수 회전익)&lt;div&gt;: 호버링(정지비행) 가능&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-12" value="고정익&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(엔진 추진)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;: 장거리 비행 가능&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="460" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-13" value="하이브리드(VTOL)&lt;div&gt;: 수직이착륙 가능&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="460" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-14" value="용도" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="70" y="510" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-15" value="촬영·방송용" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="510" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-16" value="군사·정찰용" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="510" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-17" value="배송·물류용" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="510" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-18" value="재난·구조용" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="510" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-19" value="농업·산업용" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="510" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-20" value="Big 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-27" value="Middle 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="650" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-28" value="다온아이앤씨" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="600" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-29" value="UVify" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="600" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-30" value="파블로항공" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="600" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3YPgcy1ijYxcLnfeTsT4-31" value="스카이아트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="650" width="260" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
